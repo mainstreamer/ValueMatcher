@@ -1,0 +1,24 @@
+{
+    "name": "epiclesys/value-matcher",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^11.3",
+        "symfony/var-dumper": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Epiclesys\\ValueMatcher\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "D.G. T0w1",
+            "email": "mainstreamer@outlook.com"
+        }
+    ]
+}

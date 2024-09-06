@@ -1,0 +1,126 @@
+{
+  "level1": {
+    "boolean": true,
+    "array": [1, 2, 3, "string", true, null],
+    "object": {
+      "level2": {
+        "string": "text",
+        "number": 12345,
+        "array": [true, false, {"innerObject": {"key": "value"}}, [1, 2, 3]],
+        "nestedObject": {
+          "level3": {
+            "boolean": false,
+            "array": ["a", "b", "c"],
+            "object": {
+              "level4": {
+                "nullValue": null,
+                "nestedObjectAgain": {
+                  "level5": {
+                    "boolean": true,
+                    "array": [false, true, {"deepArray": [1, 2, 3]}, "end"],
+                    "object": {
+                      "level6": {
+                        "string": "another string",
+                        "number": 67890,
+                        "deeplyNested": {
+                          "level7": {
+                            "boolean": true,
+                            "array": ["more", "data", "here", [4, 5, 6]],
+                            "object": {
+                              "level8": {
+                                "array": [
+                                  {"key1": "value1"},
+                                  {"key2": "value2"},
+                                  {"key3": {"innerArray": [7, 8, 9]}},
+                                  ["arrayElement"]
+                                ],
+                                "boolean": false,
+                                "nestedAgain": {
+                                  "level9": {
+                                    "boolean": true,
+                                    "array": [10, 11, 12],
+                                    "object": {
+                                      "level10": {
+                                        "string": "deep level",
+                                        "number": 13579,
+                                        "deeplyNested": {
+                                          "level11": {
+                                            "boolean": false,
+                                            "array": ["data", "at", "level", 11],
+                                            "object": {
+                                              "level12": {
+                                                "array": [1, 2, 3, 4],
+                                                "boolean": true,
+                                                "nestedObject": {
+                                                  "level13": {
+                                                    "finalLevel": false,
+                                                    "stillGoing": true,
+                                                    "array": ["deep", "deeper", 13],
+                                                    "object": {
+                                                      "level14": {
+                                                        "boolean": true,
+                                                        "array": [14, 15, 16],
+                                                        "nestedObject": {
+                                                          "level15": {
+                                                            "string": "almost there",
+                                                            "number": 24680,
+                                                            "deeplyNested": {
+                                                              "level16": {
+                                                                "boolean": true,
+                                                                "array": ["deep", "data", "level", 16],
+                                                                "object": {
+                                                                  "level17": {
+                                                                    "array": [17, 18, 19],
+                                                                    "boolean": false,
+                                                                    "nestedObject": {
+                                                                      "level18": {
+                                                                        "finalLevel": "approaching",
+                                                                        "array": ["almost", "done", 18],
+                                                                        "object": {
+                                                                          "level19": {
+                                                                            "boolean": true,
+                                                                            "array": ["last", "level", 19],
+                                                                            "object": {
+                                                                              "level20": {
+                                                                                "finalLevel": "reached",
+                                                                                "stillGoing": false
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
