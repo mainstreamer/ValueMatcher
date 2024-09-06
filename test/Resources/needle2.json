@@ -1,0 +1,36 @@
+{
+  "level17": {
+    "array": [
+      17,
+      18,
+      19
+    ],
+    "boolean": false,
+    "nestedObject": {
+      "level18": {
+        "finalLevel": "approaching",
+        "array": [
+          "almost",
+          "done",
+          18
+        ],
+        "object": {
+          "level19": {
+            "boolean": true,
+            "array": [
+              "last",
+              "level",
+              19
+            ],
+            "object": {
+              "level20": {
+                "finalLevel": "reached",
+                "stillGoing": false
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
