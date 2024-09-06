@@ -1,6 +1,6 @@
 # ValueMatcher
-[![Latest Stable Version](http://poser.pugx.org/epiclesys/value-matcher/v)](https://packagist.org/packages/epiclesys/value-matcher/)
-[![License](http://poser.pugx.org/epiclesys/value-matcher/license)](https://packagist.org/packages/epiclesys/value-matcher/)
+[![Latest Stable Version](https://poser.pugx.org/epiclesys/value-matcher/v)](https://packagist.org/packages/epiclesys/value-matcher) 
+[![License](https://poser.pugx.org/epiclesys/value-matcher/license)](https://packagist.org/packages/epiclesys/value-matcher)
 
 A simple PHP library for searching json values inside json or sub-arrays inside arrays.
 
